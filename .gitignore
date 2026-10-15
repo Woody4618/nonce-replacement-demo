@@ -1,0 +1,4 @@
+node_modules/
+authority.json
+relayer.json
+*.sign.json
